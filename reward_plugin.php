@@ -1,11 +1,11 @@
 <?php
    /*
    Plugin Name: Rewards
-   Plugin URI: http://joshuaalexander.net/
+   Plugin URI: http://derickablong.com/
    description: Customer loyalty reward
    Version: 1.2
-   Author: Joshua Alexander
-   Author http://joshuaalexander.net/
+   Author: Derick Ablong
+   Author http://derickablong.com/
    License: GPL2
    */
   
